@@ -1,7 +1,5 @@
 # MIST4610-Group6
 
-# MIST4610-Project1-Group6
-
 ## Team Name: 
 61608 Group 6
 
